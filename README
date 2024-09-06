@@ -1,0 +1,5 @@
+Those 4 codes make the next things: 
+TFG:UCO-DCN-Codon usage table code.R --> Elaborate a codon usage table 
+TFG:UCO-DCN-Filter FASTA and Chi square.R --> Filter FASTA and do Chi-Square 
+TFG:UCO-DCN-General description of sequencies code.R --> Show base composition, total and mean exon length and mean number of exon and intron 
+TFG:UCO-DCN-START, STOP and second codon code.R --> Show all sequences that doesn't start with ATG, those that doesn't finish with TAA, TAG or TGA and second codons
